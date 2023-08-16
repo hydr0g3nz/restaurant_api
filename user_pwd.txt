@@ -1,0 +1,9 @@
+username     password
+admin		lemon@789!
+manager		lemon@789!
+Adiran		lemon@adr!
+Mario 		lemon@mar!
+Sana		lemon@san!
+dc		lemon@dc!
+
+
